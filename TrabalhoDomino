@@ -10,7 +10,7 @@ public class Jogo {
         ArrayList playerComp=new ArrayList();
         ArrayList PecasJoga=new ArrayList();
 
-
+    //JOGÃO VIOLENTO
 
 
     }
